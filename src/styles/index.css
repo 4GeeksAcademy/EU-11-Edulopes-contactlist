@@ -1,0 +1,11 @@
+/* 
+    General Styles
+*/
+.media {
+    display: flex;
+    flex-direction: inherit;
+}
+#newContactCon h2 {
+    display: flex;
+    justify-content: center;
+}
